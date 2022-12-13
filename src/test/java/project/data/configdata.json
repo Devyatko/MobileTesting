@@ -1,0 +1,10 @@
+{
+  "automationName": "choose XCUITest or UiAutomator2 (default Appium)",
+  "platformName": "choose iOS or Android",
+  "platformVersion": "for example 12.2",
+  "deviceName": "for example iPhone 8",
+  "app": "for example src/test/resources/apk/example.apk",
+  "appPackage": "for example com.android.calculator2",
+  "appActivity": "for example com.android.calculator2.Calculator",
+  "remoteURL": "http://0.0.0.0:4723/wd/hub"
+}
